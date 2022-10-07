@@ -1,0 +1,14 @@
+div {
+    height: 300px;
+    color: white;
+  }
+  
+  .big-img {
+    background: url("../Images/big_image.jpg");
+  }
+  .small-img {
+    background: url("../Images/small_image.jpg");
+  }
+  .folder-img {
+    background: url("../Images/folder/gasmask_image.jpg");
+  }
