@@ -1,0 +1,16 @@
+div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.three {
+  background: green;
+  transition: all 2s;
+  transition-delay: 1s;
+}
+.three:hover {
+  background: gray;
+  border-radius: 50 25%;
+  transform: scale(1.5);
+}
